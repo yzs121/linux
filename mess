@@ -1,0 +1,4 @@
+//触摸板
+
+sudo modprobe -r psmouse
+sudo modprobe psmouse
